@@ -1,5 +1,6 @@
 **README: House Price Prediction in King County, USA
 Project Overview**
+
 This project aims to predict house prices in King County, USA, using linear regression models. The dataset used contains various house attributes, including square footage, number of bedrooms, bathrooms, and more. The analysis explores the relationship between these factors and house prices to develop a predictive model.
 
 **Contents**
